@@ -9,15 +9,15 @@ select.addEventListener('change', () => {
   switch (opcao) {
     case 'hiiro':
       texto = 'Um possivel Jack procurado por inumeros crimes como p***f****';
-      imagem = 'hiro.jpg';
+      imagem = 'hirojack/hiro.jpg';
       break;
     case 'vt':
       texto = 'Esse mulek é um n4zista narcizista que com certeza quer te queimar';
-      imagem = 'vt.jpg';
+      imagem = 'hirojack/vt.jpg';
       break;
     case 'cris':
       texto = 'Nada a dizer esse cara é de um cor meio errada n sei dizer o porque...';
-      imagem = 'cris.jpg';
+      imagem = 'hirojack/cris.jpg';
       break;
     default:
       texto = '';
